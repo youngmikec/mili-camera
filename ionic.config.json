@@ -1,0 +1,7 @@
+{
+  "name": "mili-camera",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
